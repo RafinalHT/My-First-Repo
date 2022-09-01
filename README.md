@@ -4,4 +4,4 @@ NPM     : 2106634540
 
 Kelas   : F
 
-Hobi    : Bermain
+Hobi    : Turu
